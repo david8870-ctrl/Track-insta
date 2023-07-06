@@ -22,19 +22,19 @@ At this moment the usage of Trackgram is extremly simple:
         - path_to_csv: the path were the csv file will be stored, including the name
 
 
-4. Execute it with python3 tracgram.py
+4. Execute it with python3 track-insta.py
 
 ```
 
 **Installation steps**
 ---
 
-1. Download with `$ git clone https://github.com/initzerCreations/Tracgram`
+1. Download with `$ git clone https://github.com/initzerCreations/Track-insta`
 
 2. Install dependencies using `pip install -r requirements.txt`
 
 3. Congrats! by now you should be able to run it:
-    `python3 tracgram.py`
+    `python3 track-insta.py`
 
 **Screenshots**
 ![Heatmap](img/heatmap.png)

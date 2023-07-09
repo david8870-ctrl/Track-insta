@@ -114,7 +114,7 @@ class Tracgram:
 
 def main():
     # Change the parameters with your own data
-    tracgram = Tracgram("YOUR NICKNAME", "YOUR PASSWORD", "OBJECTIVE NICKNAME", "results.csv") # results.csv is the name of the csv file that will be created
+    track-insta = Track-insta("YOUR NICKNAME", "YOUR PASSWORD", "OBJECTIVE NICKNAME", "results.csv") # results.csv is the name of the csv file that will be created
     # Obtain the location data
     tracgram.retreive_location_data(tracgram.get_profile_posts())
     # Generates location_heatmap.html and posts_per_location.png

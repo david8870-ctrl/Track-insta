@@ -1,4 +1,4 @@
-`Trackgram` Use Instagram location features to track an account
+`Track-insta` Use Instagram location features to track an account
 
 ![Heatmap](img/heatmap.png)
 
@@ -6,7 +6,7 @@
 ---
 
 ```
-At this moment the usage of Trackgram is extremly simple:
+At this moment the usage of Track-insta is extremly simple:
 
 1. Download this repository
 
@@ -29,7 +29,7 @@ At this moment the usage of Trackgram is extremly simple:
 **Installation steps**
 ---
 
-1. Download with `$ git clone https://github.com/initzerCreations/Track-insta`
+1. Download with `$ git clone https://github.com/devilsparadise/Track-insta`
 
 2. Install dependencies using `pip install -r requirements.txt`
 
